@@ -1,6 +1,6 @@
 # law-landing-page
 
-[🌐 Live Preview](https://street-style-landing-page-neon.vercel.app/)
+[🌐 Live Preview](https://law-landing-page-xi.vercel.app/)
 
 - ✅ CSS
 - ❌ Responsiveness, made for screen size 1440px
